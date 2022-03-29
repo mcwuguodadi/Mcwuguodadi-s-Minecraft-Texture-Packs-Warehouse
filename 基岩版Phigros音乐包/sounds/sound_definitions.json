@@ -1,0 +1,13 @@
+  {
+  "music.menu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/music/menu/menu1",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      }
+    ]
+  }
+}

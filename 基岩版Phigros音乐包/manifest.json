@@ -1,0 +1,17 @@
+﻿{
+    "format_version": 1,
+    "header": {
+        "description": "§l§4由mcwuguodadi移植，原作者不详，标题背景音乐：心の記憶(feat.Miku) - A-39,初音未来,沙包P",
+        "name": "§l§9Phigros音乐包[be移植]",
+        "uuid": "8f95ec4e-e455-4ca5-86eb-c869022ec52a",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "§l§4由mcwuguodadi移植，原作者不，标题背景音乐：心の記憶(feat.Miku) - A-39,初音未来,沙包P",
+            "type": "resources",
+            "uuid": "b921a86d-1ed2-4d6a-b039-607371897899",
+            "version": [1, 0, 0]
+        }
+    ]
+}
