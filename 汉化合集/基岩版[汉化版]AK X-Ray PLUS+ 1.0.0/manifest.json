@@ -1,0 +1,60 @@
+{
+    "format_version": 1,
+    "header": {
+        "description":"§4§l[汉化版by mcwuguodadi]§rThe best X-Ray, AK X-Ray have a upgrade to create the perfect texture to see through the walls with more options to use the texture. For a better experience turn off smooth lighting. If you are in windows 10 take a night vision potion to see.\nMore info in §aMcpedl",
+        "name": "§4§l[汉化版]§rAK X-Ray PLUS+",
+        "uuid": "d1d81df3-985f-4319-94bd-793926f527f2",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "§4§l[汉化版by mcwuguodadi]§rThe best X-Ray, AK X-Ray have a upgrade to create the perfect texture to see through the walls with more options to use the texture. For a better experience turn off smooth lighting. If you are in windows 10 take a night vision potion to see.\nMore info in §aMcpedl",
+            "type": "resources",
+            "uuid": "6b5f9d47-785a-49da-a971-2c7a135f4491",
+            "version": [1, 0, 0]
+        }
+    ],
+   "subpacks": [
+   {
+      "folder_name": "8",
+      "name": "|| §6Aggresive 矿物透视§f ||\n\n此选项禁用所有矿石、草和沙子的纹理。 可以查看所有的生物和结构。\n\n§r§9夜视§f（仅win10版和主机版）§f和§3平滑照明关闭§f（所有设备）§f需要识别的矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "7",
+      "name": "|| §6透视 §ffor §4下界合金§f ||\n\n将其用于§c下界§5维度§f以查看§4下届合金§f；所有的生物和下界建筑。\n\n§r§9夜视§f（仅win10版和主机板）§f和§3平滑照明关闭§f（所有设备）§f需要识别矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "6",
+      "name": "|| §6透视§f用于§3钻石§f和 §a绿宝石§f ||\n\n在§a主世界§5维度§f去找到§3钻石§f和§a绿宝石§f; 所有的地牢和结构\n\n§r§9夜视§f(仅win10版和主机板) §f和 §3关闭平滑光照§f(所有设备)§f需要识别的矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "5",
+      "name": "|| §e末地§6透视§f ||\n\n用它来... 我不知道你用来干什么. 去看§5黑曜石§f,怪物和末地结构.\n\n§r§9夜视§f(仅win10版和主机板)§f和§3关闭平滑光照§f(所有设备)§f需要识别的矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "4",
+      "name": "|| §c下届§6透视§f ||\n\n将其用于§c下届§5维度§f去看§4下界残骸§f, §7石英§f和§6下届金矿§f;怪物和下届结构.\n\n§r§9夜视§f(仅win10版和主机板)§f和§3关闭平滑光照§f(所有设备)§f需要识别的矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "3",
+      "name": "|| §a主世界§6透视§f ||\n\n将其用于§a主世界§5维度§f去看所有的矿石，§a主世界§r的怪物与结构.\n\n§r§9夜视§f(仅win10版和主机板)§f和§3关闭平滑光照§f(所有设备)§f需要识别的矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "2",
+      "name": "|| §6默认透视§f1.17新版矿石||\n\n定制矿石方块(与方块边框一起使用以更好地识别矿石)\n\n使用他去看§5钻石§f, 包括§a主世界, §c下界§f和§e末地§f去看所有的矿石,怪物和结构.\n\n§r§9夜视§f(仅win10版和主机板)§f和§3关闭平滑光照§f(所有设备)§f需要识别的矿石",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "1",
+      "name": "|| §6默认透视§f ||\n\n默认矿石方块(使用您拥有的材质包中的矿石材质，如果您没有修改矿石的材质，则矿石的材质为默认材质)\n\n用它去看§5钻石§f,包括§a主世界, §c下届§f和§e末地§f去找到所有的矿石，怪物和结构.\n\n§r§9夜视§f(仅win10版和主机板)§f和§3关闭平滑光照§f(所有设备)§f需要识别的矿石",
+      "memory_tier": 1
+}
+]
+}

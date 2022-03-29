@@ -1,0 +1,138 @@
+{
+  "stone" : { 
+    "textures" : "stone", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "sandstone" : { 
+    "isotropic" : {"up" : true, "down" : true},
+    "textures" : { "up" : "sandstone_top", "down" : "sandstone_bottom", "side" : "sandstone_side"}, 
+    "brightness_gamma" : 0.70,
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+   "amethyst_block" : {
+      "sound" : "amethyst_block",
+      "textures" : "amethyst_block",
+      "blockshape": "invisible"
+   },
+   "amethyst_cluster" : {
+      "sound" : "amethyst_cluster",
+      "textures" : "amethyst_cluster",
+      "blockshape": "invisible"
+  },
+  "copper_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "lapis_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "coal_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "gold_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "iron_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "redstone_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "deepslate_copper_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "deepslate_lapis_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "deepslate_coal_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "deepslate_gold_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "deepslate_iron_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "deepslate_redstone_ore" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "dirt" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "gravel" : { 
+    "textures" : "gravel", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "granite" : { 
+    "textures" : "stone_granite", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "andesite" : { 
+    "textures" : "stone_andesite", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "diorite" : { 
+    "textures" : "stone_diorite", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "deepslate" : {
+    "textures" : "deepslate",
+    "blockshape" : "invisible"
+  },
+  "tuff" : {
+    "textures" : "tuff",
+    "blockshape" : "invisible"
+  },
+  "smooth_basalt" : {
+    "textures" : "smooth_basalt",
+    "blockshape" : "invisible"
+  },
+  "calcite" : {
+    "textures" : "calcite",
+    "blockshape" : "invisible"
+  }
+}

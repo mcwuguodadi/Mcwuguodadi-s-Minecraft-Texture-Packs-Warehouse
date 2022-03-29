@@ -1,0 +1,103 @@
+{
+  "stone" : { 
+    "textures" : "stone", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "sandstone" : { 
+    "isotropic" : {"up" : true, "down" : true},
+    "textures" : { "up" : "sandstone_top", "down" : "sandstone_bottom", "side" : "sandstone_side"}, 
+    "brightness_gamma" : 0.70,
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "dirt" : { 
+    "isotropic" : true,
+    "textures" : "dirt", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+  },
+  "gravel" : { 
+    "textures" : "gravel", 
+    "sound": "gravel",
+    "blockshape": "invisible"
+   },
+   "end_stone" : {
+      "sound" : "stone",
+      "textures" : "end_stone",
+    "blockshape" : "invisible"
+  },
+  "granite" : { 
+    "textures" : "stone_granite", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "andesite" : { 
+    "textures" : "stone_andesite", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "diorite" : { 
+    "textures" : "stone_diorite", 
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "netherrack" : { 
+    "isotropic" : true,
+    "textures" : "netherrack",
+    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "soul_soil" : {
+    "sound" : "soul_soil",
+    "textures" : "soul_soil",
+    "blockshape": "invisible"
+  },
+  "basalt" : {
+    "sound" : "basalt",
+    "textures" : {
+      "down" : "basalt_top",
+      "side" : "basalt_side",
+      "up" : "basalt_top"
+    },
+    "blockshape": "invisible"
+  },
+  "blackstone" : {
+    "sound" : "stone",
+    "textures" : {
+      "down" : "blackstone_top",
+      "side" : "blackstone",
+      "up" : "blackstone_top"
+    },
+    "blockshape": "invisible"
+  },
+  "deepslate" : {
+    "textures" : "deepslate",
+    "blockshape" : "invisible"
+      },
+      "sound" : "stone",
+      "textures" : {
+         "down" : "redsandstone_bottom",
+         "side" : "redsandstone_side",
+         "up" : "redsandstone_top"
+    },
+    "blockshape": "invisible"
+  },
+  "tuff" : {
+    "textures" : "tuff",
+    "blockshape" : "invisible"
+  },
+  "smooth_basalt" : {
+    "textures" : "smooth_basalt",
+    "blockshape" : "invisible"
+  },
+  "calcite" : {
+    "textures" : "calcite",
+    "blockshape" : "invisible"
+  },
+  "soul_sand" : { 
+    "textures" : "soul_sand",
+    "sound": "sand",
+    "blockshape": "invisible"
+  }
+}
