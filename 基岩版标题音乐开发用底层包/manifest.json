@@ -1,0 +1,18 @@
+﻿{
+    "format_version": 2,
+    "header": {
+        "description": "§l§4mcwuguodadi标题背景音乐包开发用低层文件",
+        "name": "§l§4mcwuguodadi标题背景音乐包开发用低层文件",
+        "uuid": "715f598b-51a7-4a68-b995-b80a5c81d065",
+        "version": [1, 0, 0],
+        "min_engine_version": [1 , 13, 0]
+    },
+    "modules": [
+        {
+            "description": "§l§4mcwuguodadi标题背景音乐包开发用低层文件",
+            "type": "resources",
+            "uuid": "bce20696-bb26-4673-8cf6-96cf3a94c14d",
+            "version": [1, 0, 0]
+        }
+    ]
+}
