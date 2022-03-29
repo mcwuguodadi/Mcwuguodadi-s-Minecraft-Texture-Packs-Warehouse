@@ -1,1 +1,3 @@
-# Mcwuguodadi-s-Minecraft-Texture-Packs-Warehouse
+# mcwuguodadi的纹理包仓库
+- 在这里存储着我制作的一些材质包
+- 可能对各位有一点用
