@@ -1,7 +1,0 @@
-{
-   "end_stone" : {
-      "sound" : "stone",
-      "textures" : "end_stone",
-    "blockshape" : "invisible"
-  }
-}
